@@ -1,0 +1,32 @@
+/* Admin Dashboard Styles */
+.admin-dashboard {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .admin-dashboard h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .action-btn {
+    padding: 15px 25px;
+    font-size: 1.2rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .action-btn:hover {
+    background-color: #45a049;
+  }
+  
